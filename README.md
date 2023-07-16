@@ -1,1 +1,2 @@
-# Online-Book-Store-
+# Online-Book-Store
+This project is designed and implemented using HTML, CSS and PHP language. The database is managed using MySQL and the client-server communication is handled by XAMPP. The website allows an user to search for different books of different categories which are available for purchase. It eases the procedure of purchasing by allowing the user to add the book of his/her liking into a shopping cart. The user can then complete the purchasing by making a transaction with a credit/debit card or by simply opting for cash on delivery.
